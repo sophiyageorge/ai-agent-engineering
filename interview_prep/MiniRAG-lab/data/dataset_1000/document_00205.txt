@@ -1,0 +1,9 @@
+Document ID: 00205
+Topic: fastapi
+Dataset record: 205
+
+FastAPI is a Python framework for building APIs.
+It supports request validation, type hints, and asynchronous endpoints.
+Uvicorn can run a FastAPI application as an ASGI server.
+
+Additional reference: 51. This record belongs to dataset 1000.

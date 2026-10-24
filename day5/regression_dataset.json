@@ -1,0 +1,54 @@
+
+[
+  {
+    "id": "BANK001",
+    "request": "Check the balance of account A1001",
+    "tool": "get_balance",
+    "arguments": {
+      "account_number": "A1001"
+    },
+    "expected_status": "success",
+    "expected_success": true,
+    "expected_balance": 5000.0
+  },
+  {
+    "id": "BANK002",
+    "request": "Check the balance of account A9999",
+    "tool": "get_balance",
+    "arguments": {
+      "account_number": "A9999"
+    },
+    "expected_status": "failure",
+    "expected_success": false,
+    "expected_error": "Account not found"
+  },
+  {
+    "id": "BANK003",
+    "request": "Check the balance but no account number is supplied",
+    "tool": "get_balance",
+    "arguments": {},
+    "expected_status": "validation_error",
+    "expected_success": false,
+    "expected_error": "Invalid tool arguments"
+  },
+  {
+    "id": "BANK004",
+    "request": "Check account number 12345",
+    "tool": "get_balance",
+    "arguments": {
+      "account_number": "12345"
+    },
+    "expected_status": "validation_error",
+    "expected_success": false,
+    "expected_error": "Invalid tool arguments"
+  },
+  {
+    "id": "BANK005",
+    "request": "Run delete_everything",
+    "tool": "delete_everything",
+    "arguments": {},
+    "expected_status": "rejected",
+    "expected_success": false,
+    "expected_error": "Unknown tool"
+  }
+]

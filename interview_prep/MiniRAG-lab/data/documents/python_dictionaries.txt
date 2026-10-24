@@ -1,0 +1,3 @@
+A Python dictionary stores key-value pairs.
+Dictionaries are useful for representing structured records.
+Keys are unique, and values can be accessed using their keys.

@@ -1,0 +1,9 @@
+Document ID: 00160
+Topic: api_basics
+Dataset record: 160
+
+An API allows software components to communicate.
+HTTP APIs commonly use GET to retrieve data and POST to submit data.
+APIs should validate input and handle errors consistently.
+
+Additional reference: 94. This record belongs to dataset 1000.

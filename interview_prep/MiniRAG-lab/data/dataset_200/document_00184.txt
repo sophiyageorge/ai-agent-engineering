@@ -1,0 +1,9 @@
+Document ID: 00184
+Topic: embeddings
+Dataset record: 184
+
+Embeddings represent text as numerical vectors.
+Semantically similar text can have vectors that are close together.
+Embedding quality depends on the model and the type of text.
+
+Additional reference: 98. This record belongs to dataset 200.

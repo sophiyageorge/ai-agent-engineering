@@ -1,0 +1,3 @@
+Python exceptions represent errors that occur during execution.
+Try and except blocks help handle expected failures.
+Applications should log errors and return useful messages.

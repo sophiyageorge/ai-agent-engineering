@@ -1,0 +1,3 @@
+Vertical scaling increases resources on a single machine.
+Adding CPU or RAM can help when the machine is resource constrained.
+Vertical scaling is limited by available machine sizes and cost.

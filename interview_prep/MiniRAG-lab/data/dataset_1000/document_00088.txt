@@ -1,0 +1,9 @@
+Document ID: 00088
+Topic: python_basics
+Dataset record: 88
+
+Python is a programming language used for automation,
+data analysis, web development, and artificial intelligence.
+Python supports functions, classes, modules, and packages.
+
+Additional reference: 82. This record belongs to dataset 1000.

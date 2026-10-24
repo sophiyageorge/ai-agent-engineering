@@ -1,0 +1,9 @@
+Document ID: 00009
+Topic: python_dictionaries
+Dataset record: 9
+
+A Python dictionary stores key-value pairs.
+Dictionaries are useful for representing structured records.
+Keys are unique, and values can be accessed using their keys.
+
+Additional reference: 52. This record belongs to dataset 200.

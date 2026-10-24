@@ -1,0 +1,3 @@
+A Python function is defined using the def keyword.
+Functions accept parameters and can return values.
+Reusable functions make software easier to test and maintain.

@@ -1,0 +1,9 @@
+Document ID: 00018
+Topic: vector_search
+Dataset record: 18
+
+Vector search retrieves items using vector similarity.
+It is commonly used to find semantically relevant document chunks.
+Search quality depends on embeddings, indexing, and retrieval settings.
+
+Additional reference: 3. This record belongs to dataset 20.

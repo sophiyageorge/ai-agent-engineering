@@ -1,0 +1,9 @@
+Document ID: 00997
+Topic: sql_basics
+Dataset record: 997
+
+SQL is used to query and manage relational databases.
+SELECT retrieves data, INSERT adds rows, and UPDATE modifies rows.
+WHERE filters records based on specified conditions.
+
+Additional reference: 82. This record belongs to dataset 1000.

@@ -1,0 +1,4 @@
+documents,chunks,embedding_p50_ms,embedding_p95_ms,retrieval_p50_ms,retrieval_p95_ms
+20,28,9.418,13.291,1.602,2.159
+200,285,9.357,13.982,1.663,2.089
+1000,1449,9.276,10.431,1.613,1.912

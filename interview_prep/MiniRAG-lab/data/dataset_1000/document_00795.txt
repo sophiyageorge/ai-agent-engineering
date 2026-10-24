@@ -1,0 +1,9 @@
+Document ID: 00795
+Topic: rag_evaluation
+Dataset record: 795
+
+RAG evaluation measures retrieval relevance and answer quality.
+Useful metrics include recall at k, groundedness, latency, and cost.
+A fixed test dataset helps compare changes consistently.
+
+Additional reference: 82. This record belongs to dataset 1000.

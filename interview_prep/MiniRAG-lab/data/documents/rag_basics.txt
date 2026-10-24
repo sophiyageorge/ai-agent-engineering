@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation combines information retrieval with
+language model generation. Retrieved context helps a language model
+answer questions using a relevant external knowledge source.

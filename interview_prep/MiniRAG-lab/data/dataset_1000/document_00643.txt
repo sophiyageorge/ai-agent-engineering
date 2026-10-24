@@ -1,0 +1,9 @@
+Document ID: 00643
+Topic: database_indexes
+Dataset record: 643
+
+A database index can speed up queries that search specific columns.
+Indexes require storage and add overhead to data modifications.
+The best indexes depend on query patterns and data distribution.
+
+Additional reference: 23. This record belongs to dataset 1000.

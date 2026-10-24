@@ -1,0 +1,3 @@
+Background jobs process tasks outside the main request-response path.
+Document parsing and embedding generation can be handled asynchronously.
+Queues help control workload and recover from transient failures.

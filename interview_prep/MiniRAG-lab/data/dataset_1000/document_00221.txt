@@ -1,0 +1,9 @@
+Document ID: 00221
+Topic: background_jobs
+Dataset record: 221
+
+Background jobs process tasks outside the main request-response path.
+Document parsing and embedding generation can be handled asynchronously.
+Queues help control workload and recover from transient failures.
+
+Additional reference: 20. This record belongs to dataset 1000.

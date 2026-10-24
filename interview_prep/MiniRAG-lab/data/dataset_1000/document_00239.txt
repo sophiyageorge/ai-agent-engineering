@@ -1,0 +1,9 @@
+Document ID: 00239
+Topic: vertical_scaling
+Dataset record: 239
+
+Vertical scaling increases resources on a single machine.
+Adding CPU or RAM can help when the machine is resource constrained.
+Vertical scaling is limited by available machine sizes and cost.
+
+Additional reference: 23. This record belongs to dataset 1000.

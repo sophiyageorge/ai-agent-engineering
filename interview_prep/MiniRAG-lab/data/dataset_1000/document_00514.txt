@@ -1,0 +1,9 @@
+Document ID: 00514
+Topic: rag_chunking
+Dataset record: 514
+
+Chunking divides long documents into smaller text segments.
+Chunk size and overlap influence context, retrieval quality,
+index size, and the number of embeddings that must be stored.
+
+Additional reference: 52. This record belongs to dataset 1000.

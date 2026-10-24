@@ -1,0 +1,9 @@
+Document ID: 00826
+Topic: horizontal_scaling
+Dataset record: 826
+
+Horizontal scaling adds multiple application instances.
+A load balancer distributes requests among available instances.
+Shared state and database capacity must be considered.
+
+Additional reference: 3. This record belongs to dataset 1000.

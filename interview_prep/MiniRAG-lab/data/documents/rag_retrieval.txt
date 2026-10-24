@@ -1,0 +1,3 @@
+A RAG retriever selects relevant chunks for a user question.
+Top-k controls how many results are returned.
+Retrieval should be evaluated for relevance and latency.

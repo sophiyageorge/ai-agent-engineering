@@ -1,0 +1,9 @@
+Document ID: 00053
+Topic: rag_basics
+Dataset record: 53
+
+Retrieval-Augmented Generation combines information retrieval with
+language model generation. Retrieved context helps a language model
+answer questions using a relevant external knowledge source.
+
+Additional reference: 93. This record belongs to dataset 1000.

@@ -1,0 +1,3 @@
+SQL is used to query and manage relational databases.
+SELECT retrieves data, INSERT adds rows, and UPDATE modifies rows.
+WHERE filters records based on specified conditions.

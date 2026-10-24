@@ -1,0 +1,9 @@
+Document ID: 00192
+Topic: python_lists
+Dataset record: 192
+
+A Python list stores an ordered collection of elements.
+Lists support indexing, slicing, appending, and removing items.
+A list can contain strings, numbers, and other objects.
+
+Additional reference: 32. This record belongs to dataset 200.

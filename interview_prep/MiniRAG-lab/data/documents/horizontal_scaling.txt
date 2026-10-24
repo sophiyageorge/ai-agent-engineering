@@ -1,0 +1,3 @@
+Horizontal scaling adds multiple application instances.
+A load balancer distributes requests among available instances.
+Shared state and database capacity must be considered.

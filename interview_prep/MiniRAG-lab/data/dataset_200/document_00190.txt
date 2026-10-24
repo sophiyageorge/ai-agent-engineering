@@ -1,0 +1,9 @@
+Document ID: 00190
+Topic: python_errors
+Dataset record: 190
+
+Python exceptions represent errors that occur during execution.
+Try and except blocks help handle expected failures.
+Applications should log errors and return useful messages.
+
+Additional reference: 99. This record belongs to dataset 200.

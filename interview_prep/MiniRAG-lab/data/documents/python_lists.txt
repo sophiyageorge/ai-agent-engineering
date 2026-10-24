@@ -1,0 +1,3 @@
+A Python list stores an ordered collection of elements.
+Lists support indexing, slicing, appending, and removing items.
+A list can contain strings, numbers, and other objects.

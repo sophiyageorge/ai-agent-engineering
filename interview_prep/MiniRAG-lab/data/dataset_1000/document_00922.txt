@@ -1,0 +1,9 @@
+Document ID: 00922
+Topic: caching
+Dataset record: 922
+
+Caching stores reusable results to avoid repeated computation.
+A RAG system can cache embeddings, retrieval results, or answers.
+Cache invalidation and user permissions must be handled carefully.
+
+Additional reference: 19. This record belongs to dataset 1000.

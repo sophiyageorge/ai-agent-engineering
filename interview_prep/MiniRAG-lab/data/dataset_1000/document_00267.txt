@@ -1,0 +1,9 @@
+Document ID: 00267
+Topic: llm_tokens
+Dataset record: 267
+
+Language models process text as tokens.
+Prompt length and generated output affect latency and API cost.
+Reducing unnecessary context can improve efficiency.
+
+Additional reference: 95. This record belongs to dataset 1000.

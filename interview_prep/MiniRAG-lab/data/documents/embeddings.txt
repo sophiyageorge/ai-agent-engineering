@@ -1,0 +1,3 @@
+Embeddings represent text as numerical vectors.
+Semantically similar text can have vectors that are close together.
+Embedding quality depends on the model and the type of text.

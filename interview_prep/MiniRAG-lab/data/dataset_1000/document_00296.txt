@@ -1,0 +1,9 @@
+Document ID: 00296
+Topic: rag_retrieval
+Dataset record: 296
+
+A RAG retriever selects relevant chunks for a user question.
+Top-k controls how many results are returned.
+Retrieval should be evaluated for relevance and latency.
+
+Additional reference: 83. This record belongs to dataset 1000.

@@ -1,0 +1,3 @@
+Vector search retrieves items using vector similarity.
+It is commonly used to find semantically relevant document chunks.
+Search quality depends on embeddings, indexing, and retrieval settings.

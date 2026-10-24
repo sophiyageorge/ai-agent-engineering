@@ -1,0 +1,9 @@
+Document ID: 00871
+Topic: python_functions
+Dataset record: 871
+
+A Python function is defined using the def keyword.
+Functions accept parameters and can return values.
+Reusable functions make software easier to test and maintain.
+
+Additional reference: 61. This record belongs to dataset 1000.
